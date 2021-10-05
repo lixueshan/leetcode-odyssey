@@ -5,6 +5,7 @@
 | 本仓库题解                                                   |
 | ------------------------------------------------------------ |
 | [1-两数之和](https://github.com/lixueshan/leetcode-odyssey/blob/master/1-%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C.md) |
+| [3-无重复字符的最长子串]()                                   |
 | [50-快速幂.md](https://github.com/lixueshan/leetcode-odyssey/blob/master/50-%E5%BF%AB%E9%80%9F%E5%B9%82.md) |
 | [53-最大子序和.md](https://github.com/lixueshan/leetcode-odyssey/blob/master/53-%E6%9C%80%E5%A4%A7%E5%AD%90%E5%BA%8F%E5%92%8C.md) |
 | [94-二叉树的中序遍历](https://github.com/lixueshan/leetcode-odyssey/blob/master/94-%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E4%B8%AD%E5%BA%8F%E9%81%8D%E5%8E%86.md) |
